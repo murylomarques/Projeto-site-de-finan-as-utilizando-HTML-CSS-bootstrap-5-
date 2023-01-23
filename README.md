@@ -1,4 +1,4 @@
-> <h1>Projetos finanças </h1>
+> <h1> Interface de um site de finanças </h1>
 
 Status: Developing ⚠️
 
