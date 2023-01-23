@@ -7,3 +7,9 @@ Status: Developing ⚠️
 ![css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![bootstrap](
 https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+> Desenvolvedor: Murylo Marques 
+
+> Linkedin: www.linkedin.com/in/murylo-brayan-d-bb4336199
+
+> Github: https://github.com/murylomarques
